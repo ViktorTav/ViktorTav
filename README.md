@@ -4,7 +4,7 @@
 * 17 anos
 * Desenvolvedor iniciante
 * Aprendendo atualmente: **Git, React e Bootstrap**
-* Tecnologias aprendidas: **HTML5, CSS, Javascript e JQuery**
+* Tecnologias aprendidas: **HTML5, CSS3, Javascript e JQuery**
 
 ## Alguns Trabalhos:
 
