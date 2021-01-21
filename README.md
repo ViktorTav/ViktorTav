@@ -1,16 +1,19 @@
-### Hi there 👋
+## Bem-vindo!
 
-<!--
-**ViktorTav/ViktorTav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Victor Taveira
+* 17 anos
+* Desenvolvedor iniciante
+* Aprendendo atualmente: **Git, React e Bootstrap**
+* Tecnologias aprendidas: **HTML5, CSS, Javascript e JQuery**
 
-Here are some ideas to get you started:
+## Alguns Trabalhos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Todo List](https://viktortav.github.io/todolist/)**: Um simples aplicativo de tarefas do dia-dia.
+
+**[Cronômetro](https://viktortav.github.io/cronometro/)**: Um aplicativo de cronômetro feito com a arquitetura MVC.
+
+## Objetivos:
+
+* [ ] Aprender Node.Js;
+* [ ] Aprender MySql e/ou MongoDb;
+* [ ] Conseguir o primeiro emprego;
