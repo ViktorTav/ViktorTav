@@ -1,7 +1,7 @@
 ## Bem-vindo!
 
 * Victor Taveira
-* 17 anos
+* 18 anos
 * Desenvolvedor iniciante
-
+* 2º Período - Sistemas de Informação/UTFPR-CT
 
